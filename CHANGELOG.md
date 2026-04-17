@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [v1.7.0] - 2026-04-17
+### Added
+- Handle non-String environment variables [[#65](https://github.com/ManageIQ/awesome_spawn/pull/65)]
+
 ## [v1.6.0] - 2023-11-01
 ### Added
 - Add `CommandResult#pid` [[#49](https://github.com/ManageIQ/awesome_spawn/pull/49)]
@@ -54,7 +58,8 @@ All notable changes to this project will be documented in this file.
 
 ## v1.0.0 - 2014-01-04
 
-[Unreleased]: https://github.com/ManageIQ/awesome_spawn/compare/v1.6.0...HEAD
+[Unreleased]: https://github.com/ManageIQ/awesome_spawn/compare/v1.7.0...HEAD
+[v1.7.0]: https://github.com/ManageIQ/awesome_spawn/compare/v1.6.0...v1.7.0
 [v1.6.0]: https://github.com/ManageIQ/awesome_spawn/compare/v1.5.0...v1.6.0
 [v1.5.0]: https://github.com/ManageIQ/awesome_spawn/compare/v1.4.0...v1.5.0
 [v1.4.0]: https://github.com/ManageIQ/awesome_spawn/compare/v1.3.0...v1.4.0
